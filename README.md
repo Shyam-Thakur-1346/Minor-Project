@@ -309,5 +309,10 @@ python src/predict.py
 - **Backend API Integration**: Wrap `src/predict.py` in a REST API using FastAPI / Flask.
 - **Frontend Dashboard**: Build a React / Streamlit interactive dashboard for students and placement officers.
 - **Real Student Data Integration**: Ingest real institutional placement records for production fine-tuning.
+<<<<<<< HEAD
 "# Minor-Project" 
 "# Minor-Project" 
+=======
+"# Minor-Project" 
+"# Minor-Project" 
+>>>>>>> 93b2235504424ab72d36a82b45b4bd906a5dc2f7
