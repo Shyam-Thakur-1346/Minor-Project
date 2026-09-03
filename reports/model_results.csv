@@ -1,0 +1,12 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+XGBoost (Tuned),0.9133,0.9258,0.9593,0.9422,0.9534
+K-Nearest Neighbors,0.9,0.8996,0.9729,0.9348,0.9102
+XGBoost,0.9,0.917,0.9502,0.9333,0.9437
+Gradient Boosting (Tuned),0.9,0.9244,0.9412,0.9327,0.9494
+Gradient Boosting,0.9,0.9244,0.9412,0.9327,0.9494
+Random Forest,0.8967,0.906,0.9593,0.9319,0.9553
+Random Forest (Tuned),0.8967,0.9095,0.9548,0.9316,0.9549
+Support Vector Machine,0.8867,0.9561,0.8869,0.9202,0.9594
+Logistic Regression,0.8833,0.965,0.8733,0.9169,0.9636
+Decision Tree,0.8567,0.9238,0.8778,0.9002,0.8247
+Baseline (Dummy),0.7367,0.7367,1.0,0.8484,0.5
